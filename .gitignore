@@ -1,0 +1,28 @@
+# ---- Build output ----
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# ---- Visual Studio ----
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ---- NuGet ----
+packages/
+*.nupkg
+.nuget/
+
+# ---- Rider / VS Code (если используешь) ----
+.idea/
+.vscode/
+
+# ---- Прочее ----
+*.cache
+*.log
+*.tmp
